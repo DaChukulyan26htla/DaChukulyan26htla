@@ -8,8 +8,6 @@
 
 <img src="https://media.easy-peasy.ai/b61eaed1-c36b-4892-adfc-b18de96864b1/f6862aea-fd88-4f54-9479-950ec2cd9436.png" alt="Realistic Humanized Scrduge MacDuck Portrait | Wisdom in Red Jacket | AI  Art Generator | Easy-Peasy.AI"/>
 
-<img width="1340" height="337" alt="Screenshot 2026-09-14 2 56 52 PM" src="https://github.com/user-attachments/assets/75c58aeb-89d9-4fb7-8f4d-be9bc2923f63" />
-
 <img src="blob:chrome-untrusted://media-app/4ad52ff6-49bd-4a4a-a76f-6340ac2776b1" alt="Screenshot 2026-09-29 9.09.54 AM.png"/><img width="303" height="321" alt="image" src="https://github.com/user-attachments/assets/63702687-2d0c-493e-942c-fbd9fc5105b0" />
 
 <h1><i> THE END</I></h1>
